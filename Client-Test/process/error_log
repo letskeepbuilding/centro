@@ -1,0 +1,24 @@
+[12-Mar-2019 09:39:57 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number: no parameters were bound in /home2/centroz1/public_html/Client-Test/process/add-user-process.php:75
+Stack trace:
+#0 /home2/centroz1/public_html/Client-Test/process/add-user-process.php(75): PDOStatement->execute(NULL)
+#1 {main}
+  thrown in /home2/centroz1/public_html/Client-Test/process/add-user-process.php on line 75
+[12-Mar-2019 09:40:13 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number: no parameters were bound in /home2/centroz1/public_html/Client-Test/process/add-user-process.php:75
+Stack trace:
+#0 /home2/centroz1/public_html/Client-Test/process/add-user-process.php(75): PDOStatement->execute(NULL)
+#1 {main}
+  thrown in /home2/centroz1/public_html/Client-Test/process/add-user-process.php on line 75
+[12-Mar-2019 09:41:57 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home2/centroz1/public_html/Client-Test/process/add-user-process.php:60
+Stack trace:
+#0 {main}
+  thrown in /home2/centroz1/public_html/Client-Test/process/add-user-process.php on line 60
+[12-Mar-2019 09:42:34 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home2/centroz1/public_html/Client-Test/process/add-user-process.php:60
+Stack trace:
+#0 {main}
+  thrown in /home2/centroz1/public_html/Client-Test/process/add-user-process.php on line 60
+[12-Mar-2019 09:43:59 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home2/centroz1/public_html/Client-Test/process/add-user-process.php:58
+Stack trace:
+#0 {main}
+  thrown in /home2/centroz1/public_html/Client-Test/process/add-user-process.php on line 58
+[12-Mar-2019 10:05:44 UTC] PHP Warning:  PDOStatement::execute(): SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in /home2/centroz1/public_html/Client-Test/process/add-user-process.php on line 45
+[12-Mar-2019 10:07:15 UTC] PHP Warning:  PDOStatement::execute(): SQLSTATE[HY093]: Invalid parameter number: number of bound variables does not match number of tokens in /home2/centroz1/public_html/Client-Test/process/add-user-process.php on line 46

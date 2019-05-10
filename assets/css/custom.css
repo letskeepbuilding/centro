@@ -1,0 +1,13 @@
+#site-logo a {
+	color: #fff !important;
+}
+#site-logo a:hover {
+	text-decoration:none;
+}
+.choiceBtn {
+	margin-right:10px !important;
+  }
+  .alert {
+	font-size: 16px;
+	text-align: center;
+  }
